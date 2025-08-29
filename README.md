@@ -76,9 +76,9 @@ print(predict_image("test_dog.png"))    # → dogs
 - Predictions are consistent and reliable for dogs, cats, and snakes.  
 
 **Example Predictions:**  
-![Results](Results.png)  
+![Results](Results.PNG)  
 
-*Note: Place `Results.png` in the same folder as this README.*
+
 
 ---
 
